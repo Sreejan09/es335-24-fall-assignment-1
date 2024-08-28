@@ -2,3 +2,5 @@
 .DS_Store
 .venv
 har_dataset.zip
+HAR/config.py
+har_dataset/UCI_HAR_Dataset/config.py
